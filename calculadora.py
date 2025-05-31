@@ -9,7 +9,7 @@ def limpar_tela():
 
 def mostrar_menu():
     print(Style.BRIGHT + Fore.LIGHTMAGENTA_EX + "\n============================")
-    print("      CALCULADORA BÁSICA     ")
+    print("      CALCULADORA PINK     ")
     print("============================\n")
     print(Fore.MAGENTA + " [1] Adição")
     print(Fore.MAGENTA + " [2] Subtração")
